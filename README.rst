@@ -1,3 +1,6 @@
+Slack wget
+==========
+
 The wget Slack agent is a simple bot which, when asked will retrieve a URL and post the resulting
 status code to Slack.  The bot understands 2 commands:
 
