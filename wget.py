@@ -5,8 +5,8 @@ from slackclient import SlackClient
 
 VERSION='0.1.0'
 
-direct_chan_id = 'D0R1MD5JR'
-slack_token = 'xoxb-25059334481-BnaDTApm4CsQeFKeuZ3KpFtw'
+direct_chan_id = 'your-channel-id'
+slack_token = 'your-slack-token'
 run_flag = True
 
 http_get_rqst_pattern = re.compile ('^get\s+<(https?://([-\w\.]+)+(:\d+)?(/([\w/_\.]*(\?\S+)?)?)?)>$')
