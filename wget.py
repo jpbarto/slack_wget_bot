@@ -5,7 +5,7 @@ from slackclient import SlackClient
 
 VERSION='0.1.0'
 
-direct_chan_id = 'D0R1MD5JR'
+direct_chan_id = 'your-channel-id'
 slack_token = 'your-slack-token'
 run_flag = True
 
